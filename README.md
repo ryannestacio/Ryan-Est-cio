@@ -13,6 +13,8 @@ Seja bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, estudos e um
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 ---
+![snake gif](https://raw.githubusercontent.com/ryannestacio/ryannestacio/main/github-contribution-grid-snake.svg)
+---
 
 ## 📊 Estatísticas GitHub
 ![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryannestacio&show_icons=true&theme=tokyonight)
@@ -37,6 +39,9 @@ Seja bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, estudos e um
 - [Decimus App](https://github.com/ryannestacio/decimus-app) — Sistema completo de gestão com Flutter e Firebase
 - [API Node.js](https://github.com/ryannestacio/api-decimus) — API RESTful com Express + MongoDB
 
----
-![snake gif](github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryannestacio/ryannestacio/main/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ryannestacio/ryannestacio/main/github-contribution-grid-snake.svg" />
+</picture>
+
 
