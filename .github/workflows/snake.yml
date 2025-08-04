@@ -4,10 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *" # todos os dias à meia-noite UTC
   workflow_dispatch:
-  
-  permissions:
-  contents: write
 
+permissions:
+  contents: write
 
 jobs:
   generate:
