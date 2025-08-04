@@ -43,8 +43,8 @@ Seja bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, estudos e um
 - [API Node.js](https://github.com/ryannestacio/api-decimus) — API RESTful com Express + MongoDB
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryannestacio/ryannestacio/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ryannestacio/ryannestacio/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryannestacio/ryannestacio/main/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ryannestacio/ryannestacio/main/github-contribution-grid-snake.svg" />
 </picture>
 
 
