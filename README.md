@@ -22,8 +22,9 @@ Seja bem-vindo(a) ao meu perfil! Aqui você vai encontrar projetos, estudos e um
 
 ## 🧠 Atualmente aprendendo
 - 🧩 Node.js com Express e MongoDB
-- 🔐 Autenticação com Firebase
+- 🛠️ Gerenciamento de estado com FLutter
 - 🕸️ Consumo de APIs REST em Flutter
+- 🔥 Firebase Firestore em Flutter
 
 ---
 
